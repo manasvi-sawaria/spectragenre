@@ -12,12 +12,7 @@ __pycache__/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
-# Model weights and checkpoints
-*.keras
-*.h5
-*.ckpt
-
-# Datasets and large files (uncomment if you want to keep them out of git)
+# Datasets (too large for git, keep locally)
 # *.csv
 
 # Audio files
