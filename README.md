@@ -1,4 +1,4 @@
-# Music Genre Classification
+# SpectraGenre- Spectral Feature Learning for Music Genre Classification
 
 A deep learning project that classifies audio tracks into 10 music genres using an Artificial Neural Network (ANN) trained on the GTZAN dataset.
 
